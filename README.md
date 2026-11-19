@@ -17,7 +17,7 @@ Si al abrirlo Windows dice «Windows protegió su PC», pulsa **Más informació
 
 ## Discord
 
-Novedades y ayuda del evento: https://discord.gg/3PPp4C36fV
+Novedades y ayuda del evento: https://discord.gg/q9YVUSZedh
 
 ---
 
